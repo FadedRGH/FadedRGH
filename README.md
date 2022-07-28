@@ -19,3 +19,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fadedrgh&show_icons=true&locale=en" alt="fadedrgh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fadedrgh&" alt="fadedrgh" /></p>
+
+<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+
