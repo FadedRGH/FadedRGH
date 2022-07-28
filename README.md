@@ -1,17 +1,37 @@
-<h1 align="center">Hi 👋, I'm FadedRGH</h1>
-<h3 align="center">A passionate frontend developer from the United States</h3>
+<div align="center">
+  <h1>FadedRGH</h1>
+  <a href="https://github.com/FadedRGH">
+    <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/fadedrgh">
+    <img alt="Instagram" src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fadedrgh&label=Profile%20views&color=0400ff&style=plastic" alt="fadedrgh" /> </p>
+### Introduction
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/fadedrgh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fadedrgh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/fadedrgh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fadedrgh" height="30" width="40" /></a>
-</p>
+Hello! My name is FadedRGH, an inpired front-end developer. I'm from the United States. Currently I mainly work on private projects but I plan to grow and achieve my goal of working on more open source projects. 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fadedrgh&show_icons=true&locale=en" alt="fadedrgh" /></p>
+ **Learning**                                        | **Languages**                                               | **Databases**                                               | **Other**                                           | **Editors**                                                  
+-----------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------|--------------------------------------------------------------
+ <img width="19px" src="./assets/kotlin.svg"> Kotlin | <img width="19px" src="./assets/typescript.svg"> TypeScript | <img width="19px" src="./assets/mongodb.svg"> MongoDB       | <img width="19px" src="./assets/docker.svg"> Docker | <img width="19px" src="./assets/webstorm.svg"> Webstorm      
+ <img width="19px" src="./assets/react.svg"> React   | <img width="19px" src="./assets/javascript.svg"> JavaScript | <img width="19px" src="./assets/postgresql.svg"> PostgreSQL | <img width="19px" src="./assets/redis.svg"> Redis   | <img width="19px" src="./assets/intellij-idea.svg"> IntelliJ
+ <img width="19px" src="./assets/go.svg"> Go         |                                                             |                                                             |                                                     |                                                                                                               
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fadedrgh&" alt="fadedrgh" /></p>
+### GitHub & WakaTime Stats
+
+![SerenModz21's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerenModz21&show_icons=true&theme=dark)
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C514%20hrs%2014%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16%20Thousand%20lines%20of%20code-blue)
+
+
+
+ Last Updated on 28/07/2022 21:06:00 UTC
+<!--END_SECTION:waka-->
