@@ -16,7 +16,7 @@ Hello! My name is FadedRGH, an inpired front-end developer. I'm from the United 
 
  **Learning**                                        | **Languages**                                               | **Databases**                                               | **Other**                                           | **Editors**                                                  
 -----------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------|--------------------------------------------------------------
- <img width="19px" src="./assets/python-5.svg"> Python | <img width="19px" src="./assets/c--4.svg"> c# | <img width="19px" src="./assets/c.svg"> c++       | <img width="19px" src="./assets/css-3.svg"> Css | <img width="19px" src="./assets/html-1.svg"> HTML                                                           |                                                             |                                                     |                                                                                                               
+ <img width="19px" src="./assets/python-5.svg"> Python | <img width="19px" src="./assets/c--4.svg"> C# | <img width="19px" src="./assets/c.svg"> C++       | <img width="19px" src="./assets/css-3.svg"> Css | <img width="19px" src="./assets/html-1.svg"> HTML                                                           |                                                             |                                                     |                                                                                                               
 
 ### GitHub & WakaTime Stats
 
@@ -27,9 +27,4 @@ Hello! My name is FadedRGH, an inpired front-end developer. I'm from the United 
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16%20Thousand%20lines%20of%20code-blue)
-
-
-
- Last Updated on 28/07/2022 21:06:00 UTC
-<!--END_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Thousand%20lines%20of%20code-blue)
