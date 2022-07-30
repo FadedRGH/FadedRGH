@@ -14,7 +14,7 @@ Hello! My name is FadedRGH, an inpired front-end developer. I'm from the United 
 
 ### Tools
 
- **Learning**                                        | **Languages**                                               | **Databases**                                               | **Other**                                           | **Editors**                                                  
+ **Know**                                        | **Know**                                               | **Know**                                               | **Know**                                           | **Know**                                                  
 -----------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------|--------------------------------------------------------------
  <img width="19px" src="./assets/python-5.svg"> Python | <img width="19px" src="./assets/c--4.svg"> C# | <img width="19px" src="./assets/c.svg"> C++       | <img width="19px" src="./assets/css-3.svg"> Css | <img width="19px" src="./assets/html-1.svg"> HTML                                                           |                                                             |                                                     |                                                                                                               
 
