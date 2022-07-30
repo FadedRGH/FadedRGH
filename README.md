@@ -12,7 +12,7 @@
 
 Hello! My name is FadedRGH, an inpired front-end developer. I'm from the United States. Currently I mainly work on private projects but I plan to grow and achieve my goal of working on more open source projects. 
 
-### Tools
+### Languages I know
 
  **Know**                                        | **Know**                                               | **Know**                                               | **Know**                                           | **Know**                                                  
 -----------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------|--------------------------------------------------------------
