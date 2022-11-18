@@ -20,7 +20,7 @@ Hello! My name is Faded, an inpired front-end developer. I'm from the United Sta
 
 ### GitHub & WakaTime Stats
 
-![Faded's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faded&show_icons=true&theme=dark)
+![Faded's GitHub stats](https://github-readme-stats.vercel.app/api?username=FadedRGH&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C514%20hrs%2014%20mins-blue)
