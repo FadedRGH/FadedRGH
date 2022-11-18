@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>FadedRGH</h1>
+  <h1>Faded</h1>
   <a href="https://github.com/FadedRGH">
     <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
   </a>
