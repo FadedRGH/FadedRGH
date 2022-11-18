@@ -10,7 +10,7 @@
 
 ### Introduction
 
-Hello! My name is FadedRGH, an inpired front-end developer. I'm from the United States. Currently I mainly work on private projects but I plan to grow and achieve my goal of working on more open source projects. 
+Hello! My name is Faded, an inpired front-end developer. I'm from the United States. Currently I mainly work on private projects but I plan to grow and achieve my goal of working on more open source projects. 
 
 ### Languages I know
 
